@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Welcome to Damian Page!")
+st.title("WELCOME to Damian Page!")
 st.write(
     "hej!!!🥳"
 )
