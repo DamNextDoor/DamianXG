@@ -5,4 +5,4 @@ st.write(
     "hej!!!🥳"
 )
 
-st.image("https://github.com/DamNextDoor/DamianXG/blob/main/IMG-20250612-WA0145.jpeg",width=200)
+st.image("IMG_20250311_035618_419.jpg",width=200)
